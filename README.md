@@ -8,8 +8,6 @@ This repository contains the implementation of several simple machine learning c
 - [Classifiers Used](#classifiers-used)
 - [Implementation](#implementation)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -42,22 +40,6 @@ Each classifier was trained on the training set, and performance was evaluated o
 
 ## Results
 The implementation achieved an accuracy of not more than **66%** across all classifiers. The detailed performance metrics and comparison can be found in the project files.
-
-## Installation
-To run the code in this repository, ensure you have Python 3.x installed. You can then install the required packages using pip:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib
-```
-
-## Usage
-To run the project, execute the main script:
-
-```bash
-python main.py
-```
-
-You may need to adjust file paths or configurations based on your local setup.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or enhancements, please create a pull request or open an issue.
